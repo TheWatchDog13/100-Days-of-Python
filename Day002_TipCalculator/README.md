@@ -21,4 +21,4 @@ It’s a simple **Tip Calculator** that helps you split a restaurant bill and ad
 ## 🚀 How to Run It
 
 ```bash
-python tip_calculator.py
+python3 tip_calculator.py
